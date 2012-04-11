@@ -1,0 +1,550 @@
+Tfacebook-ios-sdk
+v4
+r1
+cCheck dependencies
+cCpHeader FBConnect.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.h
+cCpHeader FBRequest.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h
+cCpHeader Facebook.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.h
+cCpHeader FBLoginDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h
+cCpHeader FBDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.h
+cCpHeader JSON/JSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h
+cCpHeader JSON/NSObject+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.h
+cCpHeader JSON/NSString+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.h
+cCpHeader JSON/SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h
+cCpHeader JSON/SBJsonBase.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h
+cCpHeader JSON/SBJsonParser.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.h
+cCpHeader JSON/SBJsonWriter.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h
+cProcessPCH /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.pth facebook_ios_sdk_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004EA98C1D0000000000000110
+t1319734301
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004E72F28F0000000000001534
+t1316156047
+s5428
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/facebook_ios_sdk.LinkFileList
+c000000004F85F5B300000000000007AB
+t1334179251
+s1963
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBConnect.h
+c000000004F85F3F800000000000002C2
+t1334178808
+s706
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.h
+c000000004F85F3F800000000000012BD
+t1334178808
+s4797
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.m
+c000000004F85F3F800000000000065C3
+t1334178808
+s26051
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.m
+c000000004F85F3F8000000000000164B
+t1334178808
+s5707
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.h
+c000000004F85F3F80000000000000571
+t1334178808
+s1393
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m
+c000000004F85F3F80000000000000C40
+t1334178808
+s3136
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.h
+c000000004F85F3F80000000000001016
+t1334178808
+s4118
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m
+c000000004F85F3F8000000000000333F
+t1334178808
+s13119
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.h
+c000000004F85F3F80000000000001304
+t1334178808
+s4868
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m
+c000000004F85F3F80000000000007DF9
+t1334178808
+s32249
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/JSON.h
+c000000004F85F3F800000000000008F9
+t1334178808
+s2297
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.h
+c000000004F85F3F80000000000000A01
+t1334178808
+s2561
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m
+c000000004F85F3F8000000000000089E
+t1334178808
+s2206
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.h
+c000000004F85F3F80000000000000916
+t1334178808
+s2326
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.m
+c000000004F85F3F8000000000000087D
+t1334178808
+s2173
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.h
+c000000004F85F3F80000000000000AED
+t1334178808
+s2797
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m
+c000000004F85F3F80000000000001ABC
+t1334178808
+s6844
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.h
+c000000004F85F3F80000000000000B82
+t1334178808
+s2946
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m
+c000000004F85F3F80000000000000AC1
+t1334178808
+s2753
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.h
+c000000004F85F3F80000000000000C0B
+t1334178808
+s3083
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m
+c000000004F85F3F800000000000036D0
+t1334178808
+s14032
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.h
+c000000004F85F3F80000000000001140
+t1334178808
+s4416
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m
+c000000004F85F3F80000000000001F26
+t1334178808
+s7974
+
+N/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/facebook_ios_sdk_Prefix.pch
+c000000004F85F3F800000000000000BC
+t1334178808
+s188
+i<Foundation/Foundation.h>
+
+N/var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese57ae3332d36b541^9318ec332d36b541^---0#1#0#--18"Check dependencies36"C349BCA8-E645-4182-B9ED-CBEC9652EC27-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942337
+e355872054.048393
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.me469f1342d36b541^17630c362d36b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.m0000000000000000^3298"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.o FBDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBDialog.o36"E102EF6F-0294-47BA-82AE-9572365FA04E-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872053.533917
+e355872053.903792
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.ma4c688352d36b541^fa5ee7352d36b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.m0000000000000000^3403"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.o FBFrictionlessRequestSettings.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBFrictionlessRequestSettings.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBFrictionlessRequestSettings.o36"D846F09D-17C3-41BC-86C2-ED52A7E86A39-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942272
+e355872053.886926
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m2d5df1342d36b541^fe0ce3352d36b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m0000000000000000^3323"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.o FBLoginDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBLoginDialog.o36"F661A7BD-1A7E-47D5-834A-B31E9F5CC4D1-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942319
+e355872053.936884
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m9963f1342d36b541^c3d7ef352d36b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m0000000000000000^3303"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.o FBRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/FBRequest.o36"D39BB7B3-8036-4184-AE0D-9D2676C5032A-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942303
+e355872053.958446
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m425cf1342d36b541^d95cf5352d36b541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m0000000000000000^3298"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.o Facebook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/Facebook.o36"40225049-D3F4-4AD8-9E16-0E2BA9E68DAD-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942363
+e355872053.532608
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m7d5ef1342d36b541^526188352d36b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m0000000000000000^3343"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.o JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSObject+SBJSON.o36"E9213DB5-B5D5-4694-B7BB-E8C94CA57C52-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942371
+e355872053.532601
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.md960f1342d36b541^475888352d36b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.m0000000000000000^3343"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.o JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/NSString+SBJSON.o36"19A9D115-8C27-4119-8298-F7F04513E3B7-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.942527
+e355872053.535628
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m596af1342d36b541^1d1f89352d36b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m0000000000000000^3298"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.o JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJSON.o36"274C5A86-75F9-4258-B471-BD7376FB859C-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872052.943014
+e355872053.532597
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m938bf1342d36b541^cb6488352d36b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m0000000000000000^3318"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.o JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonBase.o36"BD853A0B-978A-43E0-84A4-E3E6056D509B-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872053.533873
+e355872053.637663
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m97c588352d36b541^9f3da3352d36b541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m0000000000000000^3328"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.o JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonParser.o36"99E50A48-8425-4AA9-A72E-A8903ADD9A53-
+
+CCompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872053.533911
+e355872053.600675
+r1
+xCompileC
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m1ec688352d36b541^2ac699352d36b541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m0000000000000000^3328"CompileC /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.o JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -include /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch -MMD -MT dependencies -MF /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.d -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.m -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/SBJsonWriter.o36"050432AD-C492-43F4-8677-B58EF774C7B3-
+
+CCpHeader FBConnect.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.h
+s355872051.931582
+e355872051.934124
+r1
+xCpHeader
+xFBConnect.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.hfc8dee332d36b541^4623ef332d36b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.h00f4d806deffdf42^752"CpHeader FBConnect.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBConnect.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBConnect.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"050B7854-3CC5-4538-A128-83023FF48481-
+
+CCpHeader FBDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.h
+s355872051.932288
+e355872051.936913
+r1
+xCpHeader
+xFBDialog.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.hc7b8ee332d36b541^ecd9ef332d36b541^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.h00f4d806deffdf42^749"CpHeader FBDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBDialog.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"6D642BE5-D9A6-4B74-9CAD-89FDD58F8917-
+
+CCpHeader FBLoginDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h
+s355872051.932267
+e355872051.938201
+r1
+xCpHeader
+xFBLoginDialog.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h51bcee332d36b541^552ef0332d36b541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h00f4d806deffdf42^764"CpHeader FBLoginDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBLoginDialog.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBLoginDialog.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"DB67FA7E-DFC0-4722-8726-64D5A847361C-
+
+CCpHeader FBRequest.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h
+s355872051.931619
+e355872051.935178
+r1
+xCpHeader
+xFBRequest.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h618eee332d36b541^4968ef332d36b541^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h00f4d806deffdf42^752"CpHeader FBRequest.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/FBRequest.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/FBRequest.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"D03DA5F8-AC60-44D7-AE58-FC18DD9B5618-
+
+CCpHeader Facebook.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.h
+s355872051.931997
+e355872051.935870
+r1
+xCpHeader
+xFacebook.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.hc6a5ee332d36b541^c495ef332d36b541^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.h00f4d806deffdf42^749"CpHeader Facebook.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/Facebook.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/Facebook.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"05619C1A-D9C0-4AAE-A32C-C2B72F5E1697-
+
+CCpHeader JSON/JSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h
+s355872051.932302
+e355872051.939822
+r1
+xCpHeader
+xJSON/JSON.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h6fbdee332d36b541^8198f0332d36b541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h00f4d806deffdf42^747"CpHeader JSON/JSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/JSON.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/JSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"0F68CB43-0C3B-4584-B8B4-98E0CB406090-
+
+CCpHeader JSON/NSObject+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.h
+s355872051.932322
+e355872051.940217
+r1
+xCpHeader
+xJSON/NSObject+SBJSON.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.hb2bdee332d36b541^74b2f0332d36b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.h00f4d806deffdf42^780"CpHeader JSON/NSObject+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSObject+SBJSON.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSObject+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"3EED7397-BDB1-4586-A64C-2205677422A4-
+
+CCpHeader JSON/NSString+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.h
+s355872051.932329
+e355872051.942059
+r1
+xCpHeader
+xJSON/NSString+SBJSON.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.hcbbfee332d36b541^1b2bf1332d36b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.h00f4d806deffdf42^780"CpHeader JSON/NSString+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/NSString+SBJSON.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/NSString+SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"225CB33E-DBE1-485A-91DE-C3D0CE44F84D-
+
+CCpHeader JSON/SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h
+s355872051.935275
+e355872051.944332
+r1
+xCpHeader
+xJSON/SBJSON.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h6f82ef332d36b541^33c0f1332d36b541^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h00f4d806deffdf42^753"CpHeader JSON/SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJSON.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJSON.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"13FC05C3-7508-4CE3-A39E-73043791D5D8-
+
+CCpHeader JSON/SBJsonBase.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h
+s355872051.935284
+e355872051.942803
+r1
+xCpHeader
+xJSON/SBJsonBase.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h4a7fef332d36b541^ee5bf1332d36b541^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h00f4d806deffdf42^765"CpHeader JSON/SBJsonBase.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonBase.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonBase.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"5DBEE035-5FC3-4A38-943F-9C83D9FEAFD7-
+
+CCpHeader JSON/SBJsonParser.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.h
+s355872051.936995
+e355872051.944801
+r1
+xCpHeader
+xJSON/SBJsonParser.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.he1ebef332d36b541^8bdef1332d36b541^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.h00f4d806deffdf42^771"CpHeader JSON/SBJsonParser.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonParser.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonParser.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"2E999723-780F-425B-B14A-D8A42A75F13B-
+
+CCpHeader JSON/SBJsonWriter.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h
+s355872051.937024
+e355872051.946381
+r1
+xCpHeader
+xJSON/SBJsonWriter.h
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h0fedef332d36b541^6b46f2332d36b541^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h00f4d806deffdf42^771"CpHeader JSON/SBJsonWriter.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk/SBJsonWriter.h    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/JSON/SBJsonWriter.h /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/facebook-ios-sdk36"70E03D12-57B9-45E0-90C0-750A30DBED3A-
+
+CLibtool /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a normal i386
+s355872054.056050
+e355872054.126080
+r1
+xLibtool
+x/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Libtool /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a normal i3864c6c0e362d36b541^4e4720362d36b541^---0#0#0#--1103"Libtool /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a normal i386    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -filelist /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/Objects-normal/i386/facebook_ios_sdk.LinkFileList -ObjC -framework Foundation -o /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/libfacebook_ios_sdk.a36"35F593A3-20F0-4C7F-A379-A9BCC707DBFB-
+
+CProcessPCH /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.pth facebook_ios_sdk_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s355872051.953896
+e355872052.934745
+r1
+xProcessPCH
+x/var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.pth
+xfacebook_ios_sdk_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Precompile facebook_ios_sdk_Prefix.pch5950f4332d36b541^514bef342d36b541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/facebook_ios_sdk_Prefix.pch0000000000000000^3170"ProcessPCH /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.pth facebook_ios_sdk_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-generated-files.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-own-target-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-all-target-headers.hmap -iquote /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/facebook_ios_sdk-project-headers.hmap -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator/include -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources/i386 -I/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/facebook-ios-sdk.build/Release-iphonesimulator/facebook-ios-sdk.build/DerivedSources -F/Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/build/Release-iphonesimulator -c /Users/michael/dev/wayin/v2/wayinmobile/Wayin/lib/facebook-ios-sdk/src/facebook_ios_sdk_Prefix.pch -o /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/l6/63spjntn7cz7m5jm607n3fp00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/facebook_ios_sdk_Prefix-emismexugobhyfcluraltvuikpwb/facebook_ios_sdk_Prefix.pch.d36"7F7894D8-6EC2-4E6A-8064-83A05FB28AE7-
+
